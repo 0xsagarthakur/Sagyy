@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sagar Thakur
-- 🖥 I'm a Software Engineer with 3.10years of Experience.
+- 🖥 I'm a Software Engineer with 4+ years of Experience.
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning development in Blockchain
 - 💞️ I’m looking to collaborate for help & cowork on Blockchain & Web3 related stuff.
